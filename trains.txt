@@ -1,0 +1,21 @@
+1,orange train,lahore,multan,48
+2,metro,lahore,okara,47
+3,express,lahore,islamabad,50
+4,shuttle,karachi,hyderabad,49
+5,fast,karachi,lahore,51
+6,superfast,islamabad,peshawar,52
+7,local,rawalpindi,faisalabad,53
+8,intercity,multan,sukkur,54
+9,rapid,lahore,gujranwala,55
+10,limited,quetta,sukkur,56
+11,express,lahore,karachi,57
+12,metro,islamabad,rawalpindi,58
+13,shuttle,faisalabad,lahore,59
+14,fast,peshawar,rawalpindi,60
+15,superfast,lahore,sialkot,61
+16,local,karachi,quetta,62
+17,intercity,islamabad,multan,63
+18,rapid,lahore,rawalpindi,64
+19,limited,sukkur,quetta,65
+20,express,faisalabad,karachi,66
+21,metro,lahore,sialkot,67

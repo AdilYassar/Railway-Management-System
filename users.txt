@@ -1,0 +1,7 @@
+adil,adil,admin
+zoha,rtr,user
+bilal,bilal,user
+sheroza,sheroza,user
+yassar,yassar,user
+yousaf,yousaf,user
+
